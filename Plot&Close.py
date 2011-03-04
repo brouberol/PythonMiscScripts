@@ -1,3 +1,5 @@
+# How to pop a plot window and make it disappear a while after
+
 from pylab import *
 import time
 
