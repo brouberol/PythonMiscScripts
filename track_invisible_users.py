@@ -1,11 +1,11 @@
 import xmpp
-# Not 100% fonctionnal...
+# Not 100% fonctional...
 # Qui est invisible parmis mes contacts Gtalk ?
 
  
 #constants
-USER_ID = "rouberol.b@gmail.com"
-PASSWORD = "aboutblank991"
+USER_ID = ""
+PASSWORD = ""
 SERVER = "gmail.com"
  
 jid = xmpp.protocol.JID(USER_ID)
